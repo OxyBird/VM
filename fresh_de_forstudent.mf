@@ -1,0 +1,2 @@
+SHA1(fresh_de_forstudent.ovf)= ee3fd77b9fe71f64bdb8b86222414ca70c7df0bf
+SHA1(fresh_de_forstudent-disk1.vmdk)= 54ddd7e9d663192e162d270c913e5a6ad1c173db
